@@ -4,11 +4,11 @@
     <number>1</number>
     <material>
         <name>Coal</name>
-        <probability>100</probabilitY>
+        <probability>100</probability>
     </material>
     <material>
         <name>Others</name>
-        <probability>0</probabilitY>
+        <probability>0</probability>
     </material>
 </area>
 
@@ -16,15 +16,15 @@
     <number>2</number>
     <material>
         <name>Coal</name>
-        <probability>70</probabilitY>
+        <probability>70</probability>
     </material>
     <material>
         <name>Copper</name>
-        <probability>30</probabilitY>
+        <probability>30</probability>
     </material>
     <material>
         <name>Others</name>
-        <probability>0</probabilitY>
+        <probability>0</probability>
     </material>
 </area>
 
@@ -32,15 +32,15 @@
     <number>3</number>
     <material>
         <name>Coal</name>
-        <probability>59</probabilitY>
+        <probability>59</probability>
     </material>
     <material>
         <name>Copper</name>
-        <probability>28</probabilitY>
+        <probability>28</probability>
     </material>
     <material>
         <name>Others</name>
-        <probability>12</probabilitY>
+        <probability>12</probability>
     </material>
 </area>
 
@@ -48,15 +48,15 @@
     <number>4</number>
     <material>
         <name>Coal</name>
-        <probability>54</probabilitY>
+        <probability>54</probability>
     </material>
     <material>
         <name>Coal</name>
-        <probability>32</probabilitY>
+        <probability>32</probability>
     </material>
     <material>
         <name>Others</name>
-        <probability>13</probabilitY>
+        <probability>13</probability>
     </material>
 </area>
 
@@ -64,19 +64,19 @@
     <number>5</number>
     <material>
         <name>Coal</name>
-        <probability>48</probabilitY>
+        <probability>48</probability>
     </material>
     <material>
         <name>Copper</name>
-        <probability>36</probabilitY>
+        <probability>36</probability>
     </material>
     <material>
         <name>Iron</name>
-        <probability>11</probabilitY>
+        <probability>11</probability>
     </material>
     <material>
         <name>Others</name>
-        <probability>3</probabilitY>
+        <probability>3</probability>
     </material>
 </area>
 
@@ -84,19 +84,19 @@
     <number>6</number>
     <material>
         <name>Coal</name>
-        <probability>43</probabilitY>
+        <probability>43</probability>
     </material>
     <material>
         <name>Copper</name>
-        <probability>40</probabilitY>
+        <probability>40</probability>
     </material>
     <material>
         <name>Iron</name>
-        <probability>12</probabilitY>
+        <probability>12</probability>
     </material>
     <material>
         <name>Others</name>
-        <probability>3</probabilitY>
+        <probability>3</probability>
     </material>
 </area>
 
@@ -104,19 +104,19 @@
     <number>7</number>
     <material>
         <name>Copper</name>
-        <probability>45</probabilitY>
+        <probability>45</probability>
     </material>
     <material>
         <name>Coal</name>
-        <probability>38</probabilitY>
+        <probability>38</probability>
     </material>
     <material>
         <name>Iron</name>
-        <probability>13</probabilitY>
+        <probability>13</probability>
     </material>
     <material>
         <name>Others</name>
-        <probability>3</probabilitY>
+        <probability>3</probability>
     </material>
 </area>
 
@@ -124,19 +124,19 @@
     <number>8</number>
     <material>
         <name>Copper</name>
-        <probability>49</probabilitY>
+        <probability>49</probability>
     </material>
     <material>
         <name>Coal</name>
-        <probability>33</probabilitY>
+        <probability>33</probability>
     </material>
     <material>
         <name>Iron</name>
-        <probability>14</probabilitY>
+        <probability>14</probability>
     </material>
     <material>
         <name>Others</name>
-        <probability>3</probabilitY>
+        <probability>3</probability>
     </material>
 </area>
 
@@ -144,19 +144,19 @@
     <number>9</number>
     <material>
         <name>Copper</name>
-        <probability>53</probabilitY>
+        <probability>53</probability>
     </material>
     <material>
         <name>Coal</name>
-        <probability>27</probabilitY>
+        <probability>27</probability>
     </material>
     <material>
         <name>Iron</name>
-        <probability>15</probabilitY>
+        <probability>15</probability>
     </material>
     <material>
         <name>Others</name>
-        <probability>3</probabilitY>
+        <probability>3</probability>
     </material>
 </area>
 
@@ -164,18 +164,18 @@
     <number>10</number>
     <material>
         <name>Copper</name>
-        <probability>57</probabilitY>
+        <probability>57</probability>
     </material>
     <material>
         <name>Coal</name>
-        <probability>22</probabilitY>
+        <probability>22</probability>
     </material>
     <material>
         <name>Iron</name>
-        <probability>16</probabilitY>
+        <probability>16</probability>
     </material>
     <material>
         <name>Others</name>
-        <probability>3</probabilitY>
+        <probability>3</probability>
     </material>
 </area>
