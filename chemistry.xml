@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<item>
+    <name>Clean Water</name>
+    <price>1200</price>
+    <production>
+        <time>600</time>
+        <amount>1</amount>
+    </production>
+    <source>
+        <name>Lab Flask</name>
+        <amount>1</amount>
+    </source>
+    <source>
+        <name>Water</name>
+        <amount>1</amount>
+    </source>
+</item>
+
+<item>
+    <name>Hydrogen</name>
+    <price>400</price>
+    <production>
+        <time>900</time>
+        <amount>2</amount>
+    </production>
+    <source>
+        <name>Clean Water</name>
+        <amount>1</amount>
+    </source>
+</item>
+
+<item>
+    <name>Rubber</name>
+    <price>4000</price>
+    <production>
+        <time>1800</time>
+        <amount>2</amount>
+    </production>
+    <source>
+        <name>Liana</name>
+        <amount>1</amount>
+    </source>
+</item>
+
+<item>
+    <name>Sulphuric Acid</name>
+    <price>3500</price>
+    <production>
+        <time>1800</time>
+        <amount>1</amount>
+    </production>
+    <source>
+        <name>Sulfur</name>
+        <amount>2</amount>
+    </source>
+    <source>
+        <name>Clean Water</name>
+        <amount>1</amount>
+    </source>
+</item>
+
+<item>
+    <name>Ethanol</name>
+    <price>4200</price>
+    <production>
+        <time>1800</time>
+        <amount>1</amount>
+    </production>
+    <source>
+        <name>Aluminium Bottle</name>
+        <amount>1</amount>
+    </source>
+    <source>
+        <name>Grape</name>
+        <amount>2</amount>
+    </source>
+</item>
+
+<item>
+    <name>Refined Oil</name>
+    <price>x</price>
+    <production>
+        <time>1800</time>
+        <amount>1</amount>
+    </production>
+    <source>
+        <name>Oil</name>
+        <amount>10</amount>
+    </source>
+    <source>
+        <name>Hydrogen</name>
+        <amount>10</amount>
+    </source>
+    <source>
+        <name>Lab Flask</name>
+        <amount>1</amount>
+    </source>
+</item>
+
+<item>
+    <name>Plastic Plate</name>
+    <price>40000</price>
+    <production>
+        <time>600</time>
+        <amount>1</amount>
+    </production>
+    <source>
+        <name>Green Laser</name>
+        <amount>1</amount>
+    </source>
+    <source>
+        <name>Coal</name>
+        <amount>50</amount>
+    </source>
+    <source>
+        <name>Refined Oil</name>
+        <amount>1</amount>
+    </source>
+</item>

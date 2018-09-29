@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<item>
+    <name>Coal</name>
+    <price>1</price>
+</item>
+
+<item>
+    <name>Copper</name>
+    <price>2</price>
+</item>
+
+<item>
+    <name>Iron</name>
+    <price>3</price>
+</item>
+
+<item>
+    <name>Amber</name>
+    <price>4</price>
+</item>
+
+<item>
+    <name>Water</name>
+    <price>5</price>
+</item>
+
+<item>
+    <name>Tree Seed</name>
+    <price>
+        <buy>20</buy>
+        <sell>10</sell>
+    </price>
+</item>
+
+<item>
+    <name>Liana Seed</name>
+    <price>
+        <buy>1000</buy>
+        <sell>1000</sell>
+    </price>
+</item>
+
+<item>
+    <name>Grape Seed</name>
+    <price>
+        <buy>1200</buy>
+        <sell>1200</sell>
+    </price>
+</item>
+
+<item>
+    <name>Silicon</name>
+    <price>100</price>
+</item>
+
+<item>
+    <name>Sulfur</name>
+    <price>100</price>
+</item>
+
+<item>
+    <name>Sodium</name>
+    <price>100</price>
+</item>
+
+<item>
+    <name>Aluminium</name>
+    <price>5</price>
+</item>
+
+<item>
+    <name>Gold</name>
+    <price>10</price>
+</item>
+
+<item>
+    <name>Silver</name>
+    <price>7</price>
+</item>
+
+<item>
+    <name>Emerald</name>
+    <price>12</price>
+</item>
+
+<item>
+    <name>Ruby</name>
+    <price>15</price>
+</item>
+
+<item>
+    <name>Diamond</name>
+    <price>18</price>
+</item>
+
+<item>
+    <name>Oil</name>
+    <price>21</price>
+</item>
+
+<item>
+    <name>Topaz</name>
+    <price>14</price>
+</item>
+
+<item>
+    <name>Sapphire</name>
+    <price>16</price>
+</item>
+
+<item>
+    <name>Amethyst</name>
+    <price>18</price>
+</item>
+
+<item>
+    <name>Titanium Ore</name>
+    <price>19</price>
+</item>
+
+<item>
+    <name>Alexandrite</name>
+    <price>19</price>
+</item>
+
+<item>
+    <name>Uranium</name>
+    <price>22</price>
+</item>
+
+<item>
+    <name>Platinum</name>
+    <price>13</price>
+</item>

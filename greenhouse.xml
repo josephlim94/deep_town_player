@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<item>
+    <name>Tree</name>
+    <price>193</price>
+    <production>
+        <time>1800</time>
+        <amount>10</amount>
+    </production>
+    <source>
+        <name>Tree Seed</name>
+        <amount>1</amount>
+    </source>
+    <source>
+        <name>Water</name>
+        <amount>10</amount>
+    </source>
+</item>
+
+<item>
+    <name>Liana</name>
+    <price>1700</price>
+    <production>
+        <time>1800</time>
+        <amount>1</amount>
+    </production>
+    <source>
+        <name>Liana Seed</name>
+        <amount>1</amount>
+    </source>
+    <source>
+        <name>Water</name>
+        <amount>20</amount>
+    </source>
+</item>
+
+<item>
+    <name>Grape</name>
+    <price>1500</price>
+    <production>
+        <time>1800</time>
+        <amount>2</amount>
+    </production>
+    <source>
+        <name>Grape Seed</name>
+        <amount>1</amount>
+    </source>
+    <source>
+        <name>Water</name>
+        <amount>15</amount>
+    </source>
+</item>

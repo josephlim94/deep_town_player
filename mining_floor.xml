@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<area>
+    <number>1</number>
+    <material>
+        <name>Coal</name>
+        <probability>100</probabilitY>
+    </material>
+    <material>
+        <name>Others</name>
+        <probability>0</probabilitY>
+    </material>
+</area>
+
+<area>
+    <number>2</number>
+    <material>
+        <name>Coal</name>
+        <probability>70</probabilitY>
+    </material>
+    <material>
+        <name>Copper</name>
+        <probability>30</probabilitY>
+    </material>
+    <material>
+        <name>Others</name>
+        <probability>0</probabilitY>
+    </material>
+</area>
+
+<area>
+    <number>3</number>
+    <material>
+        <name>Coal</name>
+        <probability>59</probabilitY>
+    </material>
+    <material>
+        <name>Copper</name>
+        <probability>28</probabilitY>
+    </material>
+    <material>
+        <name>Others</name>
+        <probability>12</probabilitY>
+    </material>
+</area>
+
+<area>
+    <number>4</number>
+    <material>
+        <name>Coal</name>
+        <probability>54</probabilitY>
+    </material>
+    <material>
+        <name>Coal</name>
+        <probability>32</probabilitY>
+    </material>
+    <material>
+        <name>Others</name>
+        <probability>13</probabilitY>
+    </material>
+</area>
+
+<area>
+    <number>5</number>
+    <material>
+        <name>Coal</name>
+        <probability>48</probabilitY>
+    </material>
+    <material>
+        <name>Copper</name>
+        <probability>36</probabilitY>
+    </material>
+    <material>
+        <name>Iron</name>
+        <probability>11</probabilitY>
+    </material>
+    <material>
+        <name>Others</name>
+        <probability>3</probabilitY>
+    </material>
+</area>
+
+<area>
+    <number>6</number>
+    <material>
+        <name>Coal</name>
+        <probability>43</probabilitY>
+    </material>
+    <material>
+        <name>Copper</name>
+        <probability>40</probabilitY>
+    </material>
+    <material>
+        <name>Iron</name>
+        <probability>12</probabilitY>
+    </material>
+    <material>
+        <name>Others</name>
+        <probability>3</probabilitY>
+    </material>
+</area>
+
+<area>
+    <number>7</number>
+    <material>
+        <name>Copper</name>
+        <probability>45</probabilitY>
+    </material>
+    <material>
+        <name>Coal</name>
+        <probability>38</probabilitY>
+    </material>
+    <material>
+        <name>Iron</name>
+        <probability>13</probabilitY>
+    </material>
+    <material>
+        <name>Others</name>
+        <probability>3</probabilitY>
+    </material>
+</area>
+
+<area>
+    <number>8</number>
+    <material>
+        <name>Copper</name>
+        <probability>49</probabilitY>
+    </material>
+    <material>
+        <name>Coal</name>
+        <probability>33</probabilitY>
+    </material>
+    <material>
+        <name>Iron</name>
+        <probability>14</probabilitY>
+    </material>
+    <material>
+        <name>Others</name>
+        <probability>3</probabilitY>
+    </material>
+</area>
+
+<area>
+    <number>9</number>
+    <material>
+        <name>Copper</name>
+        <probability>53</probabilitY>
+    </material>
+    <material>
+        <name>Coal</name>
+        <probability>27</probabilitY>
+    </material>
+    <material>
+        <name>Iron</name>
+        <probability>15</probabilitY>
+    </material>
+    <material>
+        <name>Others</name>
+        <probability>3</probabilitY>
+    </material>
+</area>
+
+<area>
+    <number>10</number>
+    <material>
+        <name>Copper</name>
+        <probability>57</probabilitY>
+    </material>
+    <material>
+        <name>Coal</name>
+        <probability>22</probabilitY>
+    </material>
+    <material>
+        <name>Iron</name>
+        <probability>16</probabilitY>
+    </material>
+    <material>
+        <name>Others</name>
+        <probability>3</probabilitY>
+    </material>
+</area>

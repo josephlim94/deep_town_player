@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<item>
+    <name>Polished Amber</name>
+    <price>70</price>
+    <production>
+        <time>30</time>
+        <amount>1</amount>
+    </production>
+    <source>
+        <name>Amber</name>
+        <amount>5</amount>
+    </source>
+</item>
+
+<item>
+    <name>Emerald Ring</name>
+    <price>450</price>
+    <production>
+        <time>300</time>
+        <amount>1</amount>
+    </production>
+    <source>
+        <name>Gold Bar</name>
+        <amount>1</amount>
+    </source>
+    <source>
+        <name>Polished Emerald</name>
+        <amount>1</amount>
+    </source>
+</item>
+
+<item>
+    <name>Amber Bracelet</name>
+    <price>280</price>
+    <production>
+        <time>120</time>
+        <amount>1</amount>
+    </production>
+    <source>
+        <name>Silver Bar</name>
+        <amount>1</amount>
+    </source>
+    <source>
+        <name>Polished Amber</name>
+        <amount>1</amount>
+    </source>
+</item>
+
+<item>
+    <name>Maya Calendar</name>
+    <price>6000</price>
+    <production>
+        <time>120</time>
+        <amount>1</amount>
+    </production>
+    <source>
+        <name>Silver Bar</name>
+        <amount>2</amount>
+    </source>
+    <source>
+        <name>Gold Bar</name>
+        <amount>10</amount>
+    </source>
+</item>
+
+<item>
+    <name>Haircomb</name>
+    <price>x</price>
+    <production>
+        <time>120</time>
+        <amount>1</amount>
+    </production>
+    <source>
+        <name>Silver Bar</name>
+        <amount>1</amount>
+    </source>
+    <source>
+        <name>Polished Amethyst</name>
+        <amount>15</amount>
+    </source>
+    <source>
+        <name>Polished Alexandrite</name>
+        <amount>10</amount>
+    </source>
+</item>
+
+<item>
+    <name>Obsidian Knife</name>
+    <price>x</price>
+    <production>
+        <time>120</time>
+        <amount>1</amount>
+    </production>
+    <source>
+        <name>Silver Bar</name>
+        <amount>1</amount>
+    </source>
+    <source>
+        <name>Tree</name>
+        <amount>2</amount>
+    </source>
+    <source>
+        <name>Polished Obsidian</name>
+        <amount>50</amount>
+    </source>
+</item>
+
+<item>
+    <name>Polished Emerald</name>
+    <price>160</price>
+    <production>
+        <time>30</time>
+        <amount>1</amount>
+    </production>
+    <source>
+        <name>Emerald</name>
+        <amount>5</amount>
+    </source>
+</item>
+
+<item>
+    <name>Polished Topaz</name>
+    <price>200</price>
+    <production>
+        <time>60</time>
+        <amount>1</amount>
+    </production>
+    <source>
+        <name>Topaz</name>
+        <amount>5</amount>
+    </source>
+</item>
+
+<item>
+    <name>Polished Ruby</name>
+    <price>250</price>
+    <production>
+        <time>60</time>
+        <amount>1</amount>
+    </production>
+    <source>
+        <name>Ruby</name>
+        <amount>5</amount>
+    </source>
+</item>
+
+<item>
+    <name>Polished Diamond</name>
+    <price>300</price>
+    <production>
+        <time>60</time>
+        <amount>1</amount>
+    </production>
+    <source>
+        <name>Diamond</name>
+        <amount>5</amount>
+    </source>
+</item>
+
+<item>
+    <name>Polished Sapphire</name>
+    <price>230</price>
+    <production>
+        <time>60</time>
+        <amount>1</amount>
+    </production>
+    <source>
+        <name>Sapphire</name>
+        <amount>5</amount>
+    </source>
+</item>
+
+<item>
+    <name>Polished Amethyst</name>
+    <price>250</price>
+    <production>
+        <time>60</time>
+        <amount>1</amount>
+    </production>
+    <source>
+        <name>Amethyst</name>
+        <amount>5</amount>
+    </source>
+</item>
