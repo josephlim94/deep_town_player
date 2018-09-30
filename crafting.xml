@@ -1,290 +1,292 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<item>
-    <name>Graphite</name>
-    <price>15</price>
-    <production>
-        <time>5</time>
-        <amount>1</amount>
-    </production>
-    <source>
-        <name>Coal</name>
-        <amount>5</amount>
-    </source>
-</item>
-
-<item>
-    <name>Copper Nail</name>
-    <price>7</price>
-    <production>
-        <time>20</time>
-        <amount>10</amount>
-    </production>
-    <source>
-        <name>Copper Bar</name>
-        <amount>1</amount>
-    </source>
-</item>
-
-<item>
-    <name>Wire</name>
-    <price>15</price>
-    <production>
-        <time>30</time>
-        <amount>5</amount>
-    </production>
-    <source>
-        <name>Copper Bar</name>
-        <amount>1</amount>
-    </source>
-</item>
-
-<item>
-    <name>Battery</name>
-    <price>200</price>
-    <production>
-        <time>120</time>
-        <amount>1</amount>
-    </production>
-    <source>
-        <name>Amber</name>
-        <amount>1</amount>
-    </source>
-    <source>
-        <name>Iron Bar</name>
-        <amount>1</amount>
-    </source>
-    <source>
-        <name>Copper Bar</name>
-        <amount>5</amount>
-    </source>
-</item>
-
-<item>
-    <name>Circuits</name>
-    <price>2070</price>
-    <production>
-        <time>180</time>
-        <amount>1</amount>
-    </production>
-    <source>
-        <name>Iron Bar</name>
-        <amount>10</amount>
-    </source>
-    <source>
+<crafting>
+    <item>
         <name>Graphite</name>
-        <amount>50</amount>
-    </source>
-    <source>
-        <name>Copper Bar</name>
-        <amount>20</amount>
-    </source>
-</item>
+        <price>15</price>
+        <production>
+            <time>5</time>
+            <amount>1</amount>
+        </production>
+        <source>
+            <name>Coal</name>
+            <amount>5</amount>
+        </source>
+    </item>
 
-<item>
-    <name>Lamp</name>
-    <price>760</price>
-    <production>
-        <time>60</time>
-        <amount>1</amount>
-    </production>
-    <source>
-        <name>Copper Bar</name>
-        <amount>5</amount>
-    </source>
-    <source>
+    <item>
+        <name>Copper Nail</name>
+        <price>7</price>
+        <production>
+            <time>20</time>
+            <amount>10</amount>
+        </production>
+        <source>
+            <name>Copper Bar</name>
+            <amount>1</amount>
+        </source>
+    </item>
+
+    <item>
         <name>Wire</name>
-        <amount>10</amount>
-    </source>
-    <source>
-        <name>Graphite</name>
-        <amount>20</amount>
-    </source>
-</item>
+        <price>15</price>
+        <production>
+            <time>30</time>
+            <amount>5</amount>
+        </production>
+        <source>
+            <name>Copper Bar</name>
+            <amount>1</amount>
+        </source>
+    </item>
 
-<item>
-    <name>Lab Flask</name>
-    <price>800</price>
-    <production>
-        <time>60</time>
-        <amount>1</amount>
-    </production>
-    <source>
-        <name>Glass</name>
-        <amount>1</amount>
-    </source>
-</item>
+    <item>
+        <name>Battery</name>
+        <price>200</price>
+        <production>
+            <time>120</time>
+            <amount>1</amount>
+        </production>
+        <source>
+            <name>Amber</name>
+            <amount>1</amount>
+        </source>
+        <source>
+            <name>Iron Bar</name>
+            <amount>1</amount>
+        </source>
+        <source>
+            <name>Copper Bar</name>
+            <amount>5</amount>
+        </source>
+    </item>
 
-<item>
-    <name>Amber Charger</name>
-    <price>4</price>
-    <production>
-        <time>5</time>
-        <amount>1</amount>
-    </production>
-    <source>
-        <name>Amber</name>
-        <amount>1</amount>
-    </source>
-</item>
-
-<item>
-    <name>Aluminium Bottle</name>
-    <price>55</price>
-    <production>
-        <time>30</time>
-        <amount>1</amount>
-    </production>
-    <source>
-        <name>Aluminium Bar</name>
-        <amount>1</amount>
-    </source>
-</item>
-
-<item>
-    <name>Amber Insulation</name>
-    <price>125</price>
-    <production>
-        <time>20</time>
-        <amount>1</amount>
-    </production>
-    <source>
-        <name>Amber</name>
-        <amount>10</amount>
-    </source>
-    <source>
-        <name>Aluminium Bottle</name>
-        <amount>1</amount>
-    </source>
-</item>
-
-<item>
-    <name>Insulated Wire</name>
-    <price>750</price>
-    <production>
-        <time>180</time>
-        <amount>1</amount>
-    </production>
-    <source>
-        <name>Wire</name>
-        <amount>1</amount>
-    </source>
-    <source>
-        <name>Amber Insulation</name>
-        <amount>1</amount>
-    </source>
-</item>
-
-<item>
-    <name>Green Laser</name>
-    <price>400</price>
-    <production>
-        <time>20</time>
-        <amount>5</amount>
-    </production>
-    <source>
-        <name>Emerald</name>
-        <amount>1</amount>
-    </source>
-    <source>
-        <name>Insulated Wire</name>
-        <amount>1</amount>
-    </source>
-    <source>
-        <name>Lamp</name>
-        <amount>1</amount>
-    </source>
-</item>
-
-<item>
-    <name>Diamond Cutter</name>
-    <price>5000</price>
-    <production>
-        <time>30</time>
-        <amount>1</amount>
-    </production>
-    <source>
-        <name>Steel Plate</name>
-        <amount>1</amount>
-    </source>
-    <source>
-        <name>Diamond</name>
-        <amount>5</amount>
-    </source>
-</item>
-
-<item>
-    <name>Motherboard</name>
-    <price>17000</price>
-    <production>
-        <time>1800</time>
-        <amount>1</amount>
-    </production>
-    <source>
-        <name>Gold Bar</name>
-        <amount>1</amount>
-    </source>
-    <source>
+    <item>
         <name>Circuits</name>
-        <amount>3</amount>
-    </source>
-    <source>
-        <name>Silicon</name>
-        <amount>3</amount>
-    </source>
-</item>
+        <price>2070</price>
+        <production>
+            <time>180</time>
+            <amount>1</amount>
+        </production>
+        <source>
+            <name>Iron Bar</name>
+            <amount>10</amount>
+        </source>
+        <source>
+            <name>Graphite</name>
+            <amount>50</amount>
+        </source>
+        <source>
+            <name>Copper Bar</name>
+            <amount>20</amount>
+        </source>
+    </item>
 
-<item>
-    <name>Solid Propellant</name>
-    <price>x</price>
-    <production>
-        <time>1200</time>
-        <amount>1</amount>
-    </production>
-    <source>
-        <name>Aluminium Bar</name>
-        <amount>10</amount>
-    </source>
-    <source>
-        <name>Rubber</name>
-        <amount>3</amount>
-    </source>
-</item>
+    <item>
+        <name>Lamp</name>
+        <price>760</price>
+        <production>
+            <time>60</time>
+            <amount>1</amount>
+        </production>
+        <source>
+            <name>Copper Bar</name>
+            <amount>5</amount>
+        </source>
+        <source>
+            <name>Wire</name>
+            <amount>10</amount>
+        </source>
+        <source>
+            <name>Graphite</name>
+            <amount>20</amount>
+        </source>
+    </item>
 
-<item>
-    <name>Accumulator</name>
-    <price>9000</price>
-    <production>
-        <time>180</time>
-        <amount>1</amount>
-    </production>
-    <source>
-        <name>Sulfur</name>
-        <amount>20</amount>
-    </source>
-    <source>
-        <name>Sodium</name>
-        <amount>20</amount>
-    </source>
-</item>
+    <item>
+        <name>Lab Flask</name>
+        <price>800</price>
+        <production>
+            <time>60</time>
+            <amount>1</amount>
+        </production>
+        <source>
+            <name>Glass</name>
+            <amount>1</amount>
+        </source>
+    </item>
 
-<item>
-    <name>Solar Panel</name>
-    <price>69000</price>
-    <production>
-        <time>60</time>
-        <amount>1</amount>
-    </production>
-    <source>
-        <name>Rubber</name>
-        <amount>1</amount>
-    </source>
-    <source>
-        <name>Silicon</name>
-        <amount>10</amount>
-    </source>
-    <source>
-        <name>Glass</name>
-        <amount>50</amount>
-    </source>
-</item>
+    <item>
+        <name>Amber Charger</name>
+        <price>4</price>
+        <production>
+            <time>5</time>
+            <amount>1</amount>
+        </production>
+        <source>
+            <name>Amber</name>
+            <amount>1</amount>
+        </source>
+    </item>
+
+    <item>
+        <name>Aluminium Bottle</name>
+        <price>55</price>
+        <production>
+            <time>30</time>
+            <amount>1</amount>
+        </production>
+        <source>
+            <name>Aluminium Bar</name>
+            <amount>1</amount>
+        </source>
+    </item>
+
+    <item>
+        <name>Amber Insulation</name>
+        <price>125</price>
+        <production>
+            <time>20</time>
+            <amount>1</amount>
+        </production>
+        <source>
+            <name>Amber</name>
+            <amount>10</amount>
+        </source>
+        <source>
+            <name>Aluminium Bottle</name>
+            <amount>1</amount>
+        </source>
+    </item>
+
+    <item>
+        <name>Insulated Wire</name>
+        <price>750</price>
+        <production>
+            <time>180</time>
+            <amount>1</amount>
+        </production>
+        <source>
+            <name>Wire</name>
+            <amount>1</amount>
+        </source>
+        <source>
+            <name>Amber Insulation</name>
+            <amount>1</amount>
+        </source>
+    </item>
+
+    <item>
+        <name>Green Laser</name>
+        <price>400</price>
+        <production>
+            <time>20</time>
+            <amount>5</amount>
+        </production>
+        <source>
+            <name>Emerald</name>
+            <amount>1</amount>
+        </source>
+        <source>
+            <name>Insulated Wire</name>
+            <amount>1</amount>
+        </source>
+        <source>
+            <name>Lamp</name>
+            <amount>1</amount>
+        </source>
+    </item>
+
+    <item>
+        <name>Diamond Cutter</name>
+        <price>5000</price>
+        <production>
+            <time>30</time>
+            <amount>1</amount>
+        </production>
+        <source>
+            <name>Steel Plate</name>
+            <amount>1</amount>
+        </source>
+        <source>
+            <name>Diamond</name>
+            <amount>5</amount>
+        </source>
+    </item>
+
+    <item>
+        <name>Motherboard</name>
+        <price>17000</price>
+        <production>
+            <time>1800</time>
+            <amount>1</amount>
+        </production>
+        <source>
+            <name>Gold Bar</name>
+            <amount>1</amount>
+        </source>
+        <source>
+            <name>Circuits</name>
+            <amount>3</amount>
+        </source>
+        <source>
+            <name>Silicon</name>
+            <amount>3</amount>
+        </source>
+    </item>
+
+    <item>
+        <name>Solid Propellant</name>
+        <price>x</price>
+        <production>
+            <time>1200</time>
+            <amount>1</amount>
+        </production>
+        <source>
+            <name>Aluminium Bar</name>
+            <amount>10</amount>
+        </source>
+        <source>
+            <name>Rubber</name>
+            <amount>3</amount>
+        </source>
+    </item>
+
+    <item>
+        <name>Accumulator</name>
+        <price>9000</price>
+        <production>
+            <time>180</time>
+            <amount>1</amount>
+        </production>
+        <source>
+            <name>Sulfur</name>
+            <amount>20</amount>
+        </source>
+        <source>
+            <name>Sodium</name>
+            <amount>20</amount>
+        </source>
+    </item>
+
+    <item>
+        <name>Solar Panel</name>
+        <price>69000</price>
+        <production>
+            <time>60</time>
+            <amount>1</amount>
+        </production>
+        <source>
+            <name>Rubber</name>
+            <amount>1</amount>
+        </source>
+        <source>
+            <name>Silicon</name>
+            <amount>10</amount>
+        </source>
+        <source>
+            <name>Glass</name>
+            <amount>50</amount>
+        </source>
+    </item>
+</crafting>

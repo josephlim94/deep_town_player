@@ -1,122 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<item>
-    <name>Copper Bar</name>
-    <price>25</price>
-    <production>
-        <time>10</time>
-        <amount>1</amount>
-    </production>
-    <source>
-        <name>Copper</name>
-        <amount>5</amount>
-    </source>
-</item>
+<smelting>
+    <item>
+        <name>Copper Bar</name>
+        <price>25</price>
+        <production>
+            <time>10</time>
+            <amount>1</amount>
+        </production>
+        <source>
+            <name>Copper</name>
+            <amount>5</amount>
+        </source>
+    </item>
 
-<item>
-    <name>Iron Bar</name>
-    <price>40</price>
-    <production>
-        <time>15</time>
-        <amount>1</amount>
-    </production>
-    <source>
-        <name>Iron</name>
-        <amount>5</amount>
-    </source>
-</item>
-
-<item>
-    <name>Glass</name>
-    <price>450</price>
-    <production>
-        <time>60</time>
-        <amount>1</amount>
-    </production>
-    <source>
-        <name>Silicon</name>
-        <amount>2</amount>
-    </source>
-</item>
-
-<item>
-    <name>Aluminium Bar</name>
-    <price>50</price>
-    <production>
-        <time>15</time>
-        <amount>1</amount>
-    </production>
-    <source>
-        <name>Aluminium</name>
-        <amount>5</amount>
-    </source>
-</item>
-
-<item>
-    <name>Steel Bar</name>
-    <price>180</price>
-    <production>
-        <time>45</time>
-        <amount>1</amount>
-    </production>
-    <source>
-        <name>Graphite</name>
-        <amount>1</amount>
-    </source>
-    <source>
+    <item>
         <name>Iron Bar</name>
-        <amount>1</amount>
-    </source>
-</item>
+        <price>40</price>
+        <production>
+            <time>15</time>
+            <amount>1</amount>
+        </production>
+        <source>
+            <name>Iron</name>
+            <amount>5</amount>
+        </source>
+    </item>
 
-<item>
-    <name>Silver Bar</name>
-    <price>200</price>
-    <production>
-        <time>60</time>
-        <amount>1</amount>
-    </production>
-    <source>
-        <name>Silver</name>
-        <amount>5</amount>
-    </source>
-</item>
+    <item>
+        <name>Glass</name>
+        <price>450</price>
+        <production>
+            <time>60</time>
+            <amount>1</amount>
+        </production>
+        <source>
+            <name>Silicon</name>
+            <amount>2</amount>
+        </source>
+    </item>
 
-<item>
-    <name>Coal</name>
-    <price>1</price>
-    <production>
-        <time>60</time>
-        <amount>50</amount>
-    </production>
-    <source>
-        <name>Tree</name>
-        <amount>1</amount>
-    </source>
-</item>
+    <item>
+        <name>Aluminium Bar</name>
+        <price>50</price>
+        <production>
+            <time>15</time>
+            <amount>1</amount>
+        </production>
+        <source>
+            <name>Aluminium</name>
+            <amount>5</amount>
+        </source>
+    </item>
 
-<item>
-    <name>Gold Bar</name>
-    <price>250</price>
-    <production>
-        <time>60</time>
-        <amount>1</amount>
-    </production>
-    <source>
-        <name>Gold</name>
-        <amount>5</amount>
-    </source>
-</item>
-
-<item>
-    <name>Steel Plate</name>
-    <price>1800</price>
-    <production>
-        <time>120</time>
-        <amount>1</amount>
-    </production>
-    <source>
+    <item>
         <name>Steel Bar</name>
-        <amount>5</amount>
-    </source>
-</item>
+        <price>180</price>
+        <production>
+            <time>45</time>
+            <amount>1</amount>
+        </production>
+        <source>
+            <name>Graphite</name>
+            <amount>1</amount>
+        </source>
+        <source>
+            <name>Iron Bar</name>
+            <amount>1</amount>
+        </source>
+    </item>
+
+    <item>
+        <name>Silver Bar</name>
+        <price>200</price>
+        <production>
+            <time>60</time>
+            <amount>1</amount>
+        </production>
+        <source>
+            <name>Silver</name>
+            <amount>5</amount>
+        </source>
+    </item>
+
+    <item>
+        <name>Coal</name>
+        <price>1</price>
+        <production>
+            <time>60</time>
+            <amount>50</amount>
+        </production>
+        <source>
+            <name>Tree</name>
+            <amount>1</amount>
+        </source>
+    </item>
+
+    <item>
+        <name>Gold Bar</name>
+        <price>250</price>
+        <production>
+            <time>60</time>
+            <amount>1</amount>
+        </production>
+        <source>
+            <name>Gold</name>
+            <amount>5</amount>
+        </source>
+    </item>
+
+    <item>
+        <name>Steel Plate</name>
+        <price>1800</price>
+        <production>
+            <time>120</time>
+            <amount>1</amount>
+        </production>
+        <source>
+            <name>Steel Bar</name>
+            <amount>5</amount>
+        </source>
+    </item>
+</smelting>
